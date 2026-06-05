@@ -122,17 +122,6 @@
 
 </div>
 
----
-## 📈 Contribution Activity
-<div align="center">
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srivathsav1010&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
 ### 💬 Let's Build Something Amazing Together!
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-srivathsav/)
