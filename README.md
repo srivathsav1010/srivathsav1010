@@ -20,7 +20,7 @@
 👨‍💻  Name     : Srivathsav Sambhaiahgari
 🎓  Degree   : B.Tech CSE @ CMRCET (2023–27)
 📍  Location : Hyderabad, India
-💡  Focus    : Full Stack Dev · Cybersecurity · AI/ML Exploration . Java Development
+💡  Focus    : Full Stack Dev · Cybersecurity · AI/ML Exploration · Java Development
 🌱  Learning : Advanced React · System Design · Cloud
 🤝  Open To  : Internships · Hackathons · Open Source
 ```
