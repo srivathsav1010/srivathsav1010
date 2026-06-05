@@ -72,8 +72,6 @@
       <h3>📸 PhotoShare Rooms (PicsRoom)</h3>
       <p><code>React · Tailwind CSS · REST APIs</code></p>
       <p>A secure photo-sharing web app where users create <strong>private rooms via unique access codes</strong> to upload, view, and share images with full privacy and organized content management.</p>
-      <a href="https://github.com/srivathsav1010">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github"/>
       </a>
     </td>
   </tr>
@@ -82,8 +80,6 @@
       <h3>🗓️ Automatic Timetable Generator</h3>
       <p><code>HTML · CSS · JavaScript · NPM</code></p>
       <p>Generates conflict-free timetables from faculty load and class inputs — <strong>zero backend needed</strong>, stores data entirely in browser cache. Hosted on GitHub Pages.</p>
-      <a href="https://github.com/srivathsav1010">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github"/>
       </a>
     </td>
     <td width="50%" valign="top">
@@ -97,8 +93,6 @@
       <h3>🎨 Color Detection System</h3>
       <p><code>Python · OpenCV</code></p>
       <p>Real-time color detection via live camera feed using image processing, color space conversions, and thresholding — a practical deep dive into <strong>computer vision</strong>.</p>
-      <a href="https://github.com/srivathsav1010">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github"/>
       </a>
     </td>
     <td width="50%" valign="top">
