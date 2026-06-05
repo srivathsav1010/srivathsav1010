@@ -137,18 +137,6 @@
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Score | Year |
-|--------|------------|-------|------|
-| 🎓 B.Tech CSE | CMR College of Engineering & Technology | 8.65 CGPA | 2023–27 |
-| 📘 Senior Secondary | Sri Chaitanya Junior College / TSBIE | 95.2% | 2021–23 |
-| 📗 Secondary | Narayana School | 10 CGPA | 2020–21 |
-
----
-
-<div align="center">
-
 ### 💬 Let's Build Something Amazing Together!
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-srivathsav/)
