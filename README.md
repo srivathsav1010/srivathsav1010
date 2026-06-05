@@ -109,21 +109,6 @@
 
 ---
 
-## 🏅 Certifications & Achievements
-
-| 🏆 Achievement / Certificate | Year |
-|---|---|
-| 🥈 **2nd Prize** — Alladi Cloud Web Hackathon | 2024 |
-| 🤖 **OpenAI & NxtWave** Generative AI Buildathon Participant | 2025 |
-| 🇮🇳 **Smart India Hackathon (SIH)** Participant | 2025 |
-| ☁️ **Salesforce Certified Agentforce Specialist** | 2025 |
-| ☕ **Oracle Java Foundations** Certification | — |
-| 🐍 **Cisco Python Essentials** Certification | — |
-| 🌐 **Full Stack Web Development** — Internshala | — |
-| 🧩 **Quizards** Competition Winner | 2023 |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
