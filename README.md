@@ -126,7 +126,7 @@
 </div>
 
 ---
-
+<div align="center">
 ## 📈 Contribution Activity
 
 <div align="center">
