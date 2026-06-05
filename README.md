@@ -18,7 +18,7 @@
 
 ```yaml
 👨‍💻  Name     : Srivathsav Sambhaiahgari
-🎓  Degree   : B.Tech CSE @ CMRCET (2023–27) | CGPA: 8.65
+🎓  Degree   : B.Tech CSE @ CMRCET (2023–27)
 📍  Location : Hyderabad, India
 💡  Focus    : Full Stack Dev · Cybersecurity · AI/ML Exploration
 🌱  Learning : Advanced React · System Design · Cloud
