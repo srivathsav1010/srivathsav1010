@@ -126,9 +126,8 @@
 </div>
 
 ---
-<div align="center">
 ## 📈 Contribution Activity
-
+<div align="center">
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srivathsav1010&theme=tokyo-night&hide_border=true&area=true)
